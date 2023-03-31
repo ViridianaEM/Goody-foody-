@@ -1,0 +1,9 @@
+{
+  "short_name": "Food Waves",
+  "name": "Find Your recipe in FoodWaves",
+
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
